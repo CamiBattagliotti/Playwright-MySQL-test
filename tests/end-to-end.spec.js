@@ -22,7 +22,7 @@ connection.connect((err) => {
 }); 
 */
 
-// ACA ARRANCA EL TEST:
+// Comienza el test:
 var precio_bd;
 
 test("test", async ({ page }) => {
