@@ -1,6 +1,6 @@
 # Playwright + MySQL Test Project
 
-Este proyecto automatiza un flujo de compra en el sitio [saucedemo.com](https://www.saucedemo.com) utilizando **Playwright con TypeScript**. Además, realiza una validación cruzada con una base de datos **MySQL** para comprobar que el precio mostrado en el e-commerce coincide con el precio almacenado en la base de datos.
+Este proyecto automatiza un flujo de compra en el sitio [saucedemo.com](https://www.saucedemo.com) utilizando **Playwright con JavaScript**. Además, realiza una validación cruzada con una base de datos **MySQL** para comprobar que el precio mostrado en el e-commerce coincide con el precio almacenado en la base de datos.
 
 ## Características
 
@@ -15,7 +15,6 @@ Este proyecto automatiza un flujo de compra en el sitio [saucedemo.com](https://
 - Node.js
 - Playwright
 - MySQL2 (librería Node.js)
-- TypeScript
 
 ## Instalación
 
